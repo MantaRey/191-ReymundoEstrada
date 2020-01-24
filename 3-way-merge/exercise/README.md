@@ -8,3 +8,4 @@ $ git log --oneline --graph --all
 * b176a9c Add content to greeting.txt
 * 280e811 Add file greeting.txt
 
+Merge Successful (master) greeting.txt is now 'Good Morning'
